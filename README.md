@@ -1,7 +1,7 @@
 # MS-Azure-AI-Fundamentals-AI-900
 Gail's Microsoft Azure AI Fundamentals AI-900 Certification Notes
 
-I was fortunate to have been offered a free Exam Voucher through WADSIH https://wadsih.org.au/  WA Data Science Innovation Hub (a Western Australian Government and Curtin University venture, which aims to increase the uptake, education, training and awareness of data science in Western Australia.)
+I was fortunate to have been offered a free Exam Voucher from Microsoft, through **WADSIH** https://wadsih.org.au/  WA Data Science Innovation Hub (a Western Australian Government and Curtin University venture, which aims to increase the uptake, education, training and awareness of data science in Western Australia.)
 Microsoft is a greater supporter of such initiatives in WA.
 
 I was interested to see how Low Code /  No Code Data Science works and how it might fit into the business world:
@@ -28,7 +28,7 @@ I was impressed with the emphasis plac4s on RESPONSIBLE AI by Mocrosoft
     Accountability			  People should be accountable for AI systems		
 
 This Repo includes 3 files:
-1) Microsoft Azure AI Fundamentals.docx - My Notes from the Online Microsoft Course, 
+1) Microsoft Azure AI Fundamentals.docx - My Notes from the Online Microsoft Course
 2) Exploring data with Python - real world data.ipynb
 3) Designing and Implementing a Data Science Solution on Azure.docx
 
