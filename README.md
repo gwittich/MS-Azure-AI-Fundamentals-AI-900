@@ -14,11 +14,17 @@ Once you sign-in to the Azure portal and create a Workspace and a Machine Learni
  - Designer - No Code
 
 I was impressed with the emphasis plac4s on RESPONSIBLE AI by Mocrosoft
-    Fairness				 	    AI systems should treat all people fairly				
-    Reliability & Safety	AI systems should perform reliably and safely			
-    Privacy & Security	  AI systems should be secure and respect privacy		
+    Fairness				 	    AI systems should treat all people fairly
+    
+    Reliability & Safety	AI systems should perform reliably and safely
+    
+    Privacy & Security	  AI systems should be secure and respect privacy
+    
     Inclusiveness			    AI systems should empower everyone and engage people
-    Transparency			    AI systems should be understandable					
+   
+   
+    Transparency			    AI systems should be understandable
+    
     Accountability			  People should be accountable for AI systems		
 
 This Repo includes 3 files:
